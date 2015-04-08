@@ -43,7 +43,7 @@
                 'category': 'business wordpress',
                 'used': 'Wordpress',
                 'url': 'http://www.donrubes.com',
-                'img': 'donrubes.png',
+                'img': 'donrubes.PNG',
                 'features': ["can shop online", "wrote product descriptions", "tabbed descriptions"],
                 'goals': [
                     {goal: 'goal #1', did: 'what I did to accomplish goal#1'},
@@ -58,7 +58,7 @@
                 'category': 'business wordpress',
                 'used': 'Wordpress',
                 'url': 'http://www.starnailsandwax.com',
-                'img': 'starnails.png',
+                'img': 'starnails.PNG',
                 'features': ["can shop online", "wrote product descriptions", "tabbed descriptions"],
                 'goals': [
                     {goal: 'goal #1', did: 'what I did to accomplish goal#1'},
@@ -73,7 +73,7 @@
                 'category': 'app',
                 'used': 'Angular two way data binding',
                 'url': 'http://www.jenniferpham.biz/Projects/Todolist-Angular/index.html',
-                'img': 'todolist-angular.png',
+                'img': 'todolist-angular.PNG',
                 'features': ["can shop online", "wrote product descriptions", "tabbed descriptions"],
                 'goals': [
                     {goal: 'goal #1', did: 'what I did to accomplish goal#1'},
@@ -88,7 +88,7 @@
                 'category': 'mobile app',
                 'used': 'Angular with Firebase Database',
                 'url': 'http://www.webdevlearning.org',
-                'img': 'webdevlearning.png',
+                'img': 'webdevlearning.PNG',
                 'features': ["can shop online", "wrote product descriptions", "tabbed descriptions"],
                 'goals': [
                     {goal: 'goal #1', did: 'what I did to accomplish goal#1'},
@@ -103,7 +103,7 @@
                 'category': 'mobile app',
                 'url': 'http://jenniferpham.biz/Projects/TipCalculator-Ionic/www/index.html',
                 'used': 'Ionic html5 mobile',
-                'img': 'tipcalculator-ionic.png',
+                'img': 'tipcalculator-ionic.PNG',
                 'features': ["can shop online", "wrote product descriptions", "tabbed descriptions"],
                 'goals': [
                     {goal: 'goal #1', did: 'what I did to accomplish goal#1'},

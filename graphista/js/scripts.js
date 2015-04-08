@@ -17,7 +17,7 @@ $(document).ready(function() {
 	
 	$('#home').height($(window).height()+50);
 	
-	$.backstretch('images/header-bg.JPG');
+	$.backstretch('images/header-bg.jpg');
 	
 	$(window).scroll( function() {
 		var st = $(this).scrollTop(),
