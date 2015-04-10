@@ -197,9 +197,12 @@
                     <!--==== Project Preview HTML ====-->
 
                     <div class="sr-only project-description" data-images="images/projects/{{sample.img}}" >
-                        <p>{{sample.client}}</p>
-                        <p>I used: {{sample.used}}</p>
+                        Features:
+                        <ul>
+                            <li ng-repeat="feature in sample.features">{{feature}}</li>
+                        </ul>
                         <p>{{sample.description}}</p>
+                        <p>I used: {{sample.used}}</p>
                         <p class="text-center"><a class="btn btn-color1" ng-href="{{sample.url}}" target="_blank"><i class="fa fa-arrow-right"></i>Visit Website</a></p>
 
                     </div>
@@ -343,7 +346,6 @@
                 <h1 class="big-text">Contact Me</h1>
                 <p class="lead">I am available for freelance and for hire. Can't wait for the next exciting project!</p>
                 <p>If you have any questions, comments, or suggestions, I'd love to hear from you and get to know you better!</p>
-                <img  src="images/jennifer-work-small.jpg" alt="Jennifer Pham web developer" width="45%" height="45%"/>
             </div>
 
             <!--=== Contact Form ===-->
@@ -362,6 +364,14 @@
                     <label class="control-label" for="contact-mail">Email</label>
                     <div class=" controls">
                         <input id="contact-mail" name="email" placeholder="Your email" class="form-control requiredField" data-new-placeholder="Your email" type="email" data-error-empty="Please enter your email" data-error-invalid="Invalid email address">
+                        <i class="fa fa-envelope"></i>
+                    </div>
+                </div><!-- End email input -->
+
+                <div class="form-group">
+                    <label class="control-label" for="contact-phone">Phone</label>
+                    <div class=" controls">
+                        <input id="contact-phone" name="email" placeholder="Your phone number (optional)" class="form-control" data-new-placeholder="Your phone number" type="text" data-error-empty="Please enter your phone number" data-error-invalid="Invalid phone number">
                         <i class="fa fa-envelope"></i>
                     </div>
                 </div><!-- End email input -->
