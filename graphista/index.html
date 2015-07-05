@@ -350,12 +350,12 @@
 
             <!--=== Contact Form ===-->
 
-            <form id="contactform" name="contactform" class="col-sm-6 col-md-offset-1 scrollimation fade-left d3" action="" role="form" method="post" ng-submit="submit(contactform)" novalidate>
+            <form id="contactform" name="contactform" class="col-sm-6 col-md-offset-1 scrollimation fade-left d3" action="contactform2.php" role="form" method="post" ng-submit="submit(contactform)" novalidate>
 
                 <div class="form-group" ng-class="{'has-error': contactform.name.$invalid && submitted}">
                     <label class="control-label" for="name">Name</label>
                     <div class="controls">
-                        <input id="name" name="name" ng-model="input.name" placeholder="Your name" class="form-control requiredField" type="text">
+                        <input id="name" name="name" ng-model="input.name" placeholder="Your name" class="form-control requiredField" type="text" data-new-placeholder="Your name" type="text" data-error-empty="Please enter your name">
                         <i class="fa fa-user"></i>
                     </div>
                 </div><!-- End name input -->
@@ -363,7 +363,7 @@
                 <div class="form-group" ng-class="{'has-error': contactform.$invalid && submitted}">
                     <label class="control-label" for="email">Email</label>
                     <div class=" controls">
-                        <input id="email" name="email" ng-model="input.email" placeholder="Your email" class="form-control requiredField" type="email">
+                        <input id="email" name="email" ng-model="input.email" placeholder="Your email" class="form-control requiredField" type="email"  data-new-placeholder="Your email" data-error-empty="Please enter your email" data-error-invalid="Invalid email address">
                         <i class="fa fa-envelope"></i>
                     </div>
                 </div><!-- End email input -->
@@ -371,7 +371,7 @@
                 <div class="form-group">
                     <label class="control-label" for="phone">Phone</label>
                     <div class=" controls">
-                        <input id="phone" name="phone" ng-model="input.phone" placeholder="Your phone number (optional)" class="form-control" type="tel">
+                        <input id="phone" name="phone" ng-model="input.phone" placeholder="Your phone number (optional)" class="form-control" type="tel" data-new-placeholder="Your phone number" data-error-empty="Please enter your phone number" data-error-invalid="Invalid phone number">
                         <i class="fa fa-envelope"></i>
                     </div>
                 </div><!-- End email input -->
@@ -379,7 +379,7 @@
                 <div class="form-group" ng-class="{'has-error': contactform.email.$invalid && submitted}">
                     <label class="control-label" for="message">Message</label>
                     <div class="controls">
-                        <textarea id="message" name="message" ng-model="input.message" placeholder="Your message" class="form-control requiredField" data-new-placeholder="Your message" rows="6" data-error-empty="Please enter your message"></textarea>
+                        <textarea id="message" name="message" ng-model="input.message" placeholder="Your message" class="form-control requiredField" data-new-placeholder="Your message" rows="6" data-error-empty="Please enter your message" data-new-placeholder="Your message" rows="6" data-error-empty="Please enter your message"></textarea>
                         <i class="fa fa-comment"></i>
                     </div>
                 </div><!-- End textarea -->
