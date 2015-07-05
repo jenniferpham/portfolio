@@ -5,6 +5,62 @@
 
 (function(){
     angular.module('portfolioApp',[])
+        .controller('ContactCtrl2', function($scope, $http){
+            $scope.success = false;
+            $scope.error = false;
+
+            $scope.sendMessage = function( input ) {
+                input.submit = true;
+                $http({
+                    method: 'POST',
+                    url: 'processForm.php',
+                    data: angular.element.param(input),
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+                })
+                    .success( function(data) {
+                        if ( data.success ) {
+                            $scope.success = true;
+                        } else {
+                            $scope.error = true;
+                        }
+                    } );
+            }
+        })
+        .controller('ContactCtrl', function($scope, $http){
+            $scope.result = 'hidden';
+            $scope.resultMessage;
+            $scope.formData;  //formData is an object holding the name, email, and message
+            $scope.submitButtonDisabled = false;
+            $scope.submit = function(contactform) {
+                $scope.submitted = true;
+                $scope.submitButtonDisabled=true;
+                if (contactform.$valid){
+                    $http({
+                        method: 'POST',
+                        url: 'contact-form.php',
+                        data: $.param($scope.formData), //param method from jquery
+                        headers: { 'Content-Type': 'application/x-www-form-urlencoded' }  //set the headers so angular passing info as form data (not request payload)
+                    }).success(function(data){ //success comes from the returned json object
+                        console.log(data);
+                        if(data.success){
+                            $scope.submitButtonDisabled = true;
+                            $scope.resultMessage = data.message;
+                            $scope.result = 'bg-success';
+                        }
+                        else{
+                            $scope.submitButtonDisabled=false;
+                            $scope.resultMessage = data.message;
+                            $scope.result = 'bg-danger';
+                        }
+                    });
+                } else{
+                    $scope.submitButtonDisabled = false;
+                    $scope.resultMessage = 'Please fill out all fields';
+                    $scope.result='bg-danger';
+                }
+            }
+
+        })
         .controller('PortfolioCtrl', function($scope) {
             $scope.samples=[
             {
@@ -32,7 +88,7 @@
                 'client': 'Relax Body and Mind Spa',
                 'project': 'Wordpress Website for Massage and Skincare Spa',
                 'category': 'business wordpress',
-                'used': 'Wordpress',
+                'used': 'Wordpress platform and customized CSS styling',
                 'url': 'http://www.relaxbodyandmindspa.com',
                 'img': 'relax.png',
                 'features': [
@@ -42,7 +98,7 @@
                     'Created professional email using domain name',
                     'Wrote "about the owners" to share the owners\' backgrounds and the holistic purpose of the business to enhance credibility and relatability'],
                 'description': 'A couple bought the business and were looking for new ways to promote it. Their goal for the website was to get more appointments and establish ' +
-                'credibility and branding. Making descriptions of their services, gift certificates, and prices publically available helped prospects know what they offer' +
+                'credibility and branding. Writing descriptions of their services, gift certificates, and prices publically available helped prospects know what they offer' +
                 ' and adding links to their Yelp reviews were a true testament to the high caliber of their services, increasing appointment phone calls. The website colors also ' +
                 'matched all of their branded print material like business cards and postcard mailers.'
             },
@@ -50,11 +106,12 @@
                 'client': 'DonRubes Production',
                 'project': 'Wordpress Website for Videographer in the Wedding Industry',
                 'category': 'business wordpress',
-                'used': 'Wordpress',
+                'used': 'Wordpress platform with responsive theme and customized CSS styling',
                 'url': 'http://www.donrubes.com',
                 'img': 'donrubes.PNG',
                 'features': [
                     "Embedded YouTube and Vimeo videos on homepage to showcase samples",
+                    "Displayed rotating slideshow of customer testimonials",
                     "Created Contact Form for users to encourage more inquiries about his services",
                     "Created professional email using domain name to establish credibility",
                     'Put contact info on all web pages to encourage users to book him for their weddings',
@@ -68,10 +125,12 @@
                 'client': 'Star Nails and Wax',
                 'project': 'Wordpress Website for Nail Salon',
                 'category': 'business wordpress',
-                'used': 'Wordpress',
+                'used': 'Wordpress and customized CSS child themes',
                 'url': 'http://www.starnailsandwax.com',
                 'img': 'starnails.PNG',
                 'features': [
+                    'Designed attractive header banner using Adobe Photoshop and wrote tag line to appeal to women',
+                    'Added photo slideshow and Instagram photos to show off samples of nails to prospective customers',
                     'Placed phone number and address on all pages to encourage calling or emailing for an appointment (clear call to action)',
                     'Added services and prices to educate users on various service packages',
                     'Created professional email using domain name',
@@ -83,20 +142,21 @@
                 'client': '',
                 'project': 'To Do List in Angular',
                 'category': 'app',
-                'used': 'Angular two way data binding',
+                'used': 'Angular.js two way data binding, Twitter Bootstrap',
                 'url': 'http://jenniferpham.biz/Projects/TodoList-Angular/index.html',
                 'img': 'todolist-angular.PNG',
                 'features': [
                     'Created functions to add, edit, and delete each task on the page without refreshing',
                     'Created function to delete multiple items at one time',
+                    'Created function to filter by keyword and prioritize the order',
                     'Styled with buttons using Twitter Bootstrap'],
-                'description': "Always trying to make the most of my day, I use tons of to do lists.  Using Javascript, Angular.js, and Twitter Bootstrap, I made a to-do list app that I could add, edit, save, and delete  using Angular's two-way data binding and filters along with Twitter Bootstrap icons and buttons."
+                'description': "Always trying to make the most of my day, I use tons of to do lists.  Using Javascript, Angular.js, and Twitter Bootstrap, I made a to-do list app that I could add, edit, save, and delete using Angular's two-way data binding and filters along with Twitter Bootstrap icons and buttons."
             },
             {
                 'client': '',
                 'project': 'Web Development Resources Database',
                 'category': 'mobile app',
-                'used': 'Angular.js front-end connected to Firebase Database',
+                'used': 'Angular.js, Firebase Database, Twitter Bootstrap',
                 'url': 'http://www.webdevlearning.org',
                 'img': 'webdevlearning.PNG',
                 'features': [
@@ -113,7 +173,7 @@
                 'project': 'Tip Calculator Phone App',
                 'category': 'mobile app',
                 'url': 'http://jenniferpham.biz/Projects/TipCalculator-Ionic/www/index.html',
-                'used': 'Ionic framework, HTML5 for mobile, Angular.js',
+                'used': 'Ionic framework, HTML5 for mobile, Angular.js, CSS',
                 'img': 'tipcalculator-ionic.PNG',
                 'features': [
                     'With user input, it calculated how much an individual should tip based on the bill and the number of people in the group',
