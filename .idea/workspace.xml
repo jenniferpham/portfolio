@@ -4,6 +4,124 @@
     <list default="true" id="ce7f4f74-925b-4b33-979a-1553dac0f0b1" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\.idea\.name" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contact-form.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contact.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contactform-mario.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contactform-mario.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contactform.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\contactformmario.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\index-juampy.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\js\app-juampy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\.scrutinizer.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\PHPMailerAutoload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\class.phpmailer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\class.pop3.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\class.smtp.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\Callback_function_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\DomainKeys_notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\Note_for_SMTP_debugging.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\extending.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\faq.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\generatedocs.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\docs\pop3_article.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\LGPLv3.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\code_generator.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\contents.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\exceptions.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\gmail.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\images\phpmailer.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\images\phpmailer_mini.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\mail.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\mailing_list.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\pop_before_smtp.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\scripts\XRegExp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\scripts\shAutoloader.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\scripts\shBrushPhp.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\scripts\shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\scripts\shLegacy.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\sendmail.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\smtp.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\smtp_no_auth.phps" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCore.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shCoreRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeAppleScript.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\shThemeVisualStudio.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\examples\styles\wrapping.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\extras\EasyPeasyICS.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\extras\class.html2text.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\extras\htmlfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\extras\ntlm_sasl_client.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ar.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-be.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-br.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ca.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ch.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-cz.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-de.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-dk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-el.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-eo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-es.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-et.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-fa.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-fi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-fo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-fr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-gl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-he.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-hr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-hu.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-it.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ja.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ka.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-lt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-lv.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-nl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-no.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-pl.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-pt.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ro.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-ru.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-se.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-sk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-sr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-tr.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-uk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-vi.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-zh.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\language\phpmailer.lang-zh_cn.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\fakepopserver.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\fakesendmail.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\phpmailerLangTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\phpmailerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\runfakepopserver.sh" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\test_callback.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\test\testbootstrap-dist.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\phpmailer\travis.phpunit.xml.dist" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\worthy_v.1.0\README.md" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\worthy_v.1.0\ReadMe.txt" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\worthy_v.1.0\bootstrap\css\bootstrap-theme.css" afterPath="" />
@@ -93,7 +211,12 @@
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\worthy_v.1.0\plugins\jquery.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\worthy_v.1.0\plugins\jquery.min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Jennifer\Documents\Coding\Github\portfolio\worthy_v.1.0\plugins\modernizr.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/graphista/js/app.js" afterPath="$PROJECT_DIR$/graphista/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/graphista/contactform.php" afterPath="$PROJECT_DIR$/graphista/contactform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/graphista/index-sample.html" afterPath="$PROJECT_DIR$/graphista/index-sample.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/graphista/index.html" afterPath="$PROJECT_DIR$/graphista/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/graphista/css/styles-9.css" afterPath="$PROJECT_DIR$/graphista/css/styles-9.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,21 +237,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contactform-mario.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graphista/contactform-mario.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graphista/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6923075">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2793651">
+              <caret line="329" column="257" selection-start-line="329" selection-start-column="257" selection-end-line="329" selection-end-column="257" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/graphista/index.html">
+      <file leaf-file-name="styles-9.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphista/css/styles-9.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41984734">
-              <caret line="352" column="134" selection-start-line="352" selection-start-column="134" selection-end-line="352" selection-end-column="134" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1415" column="14" selection-start-line="1415" selection-start-column="14" selection-end-line="1415" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphista/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactform.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphista/contactform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -151,7 +294,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/graphista/js/scripts.js" />
-        <option value="$PROJECT_DIR$/graphista/index-sample.html" />
         <option value="$PROJECT_DIR$/graphista/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/graphista/contact.php" />
         <option value="$PROJECT_DIR$/graphista/contactform.html" />
@@ -159,13 +301,17 @@
         <option value="$PROJECT_DIR$/graphista/contact.html" />
         <option value="C:/wamp/www/contactform/contact.html" />
         <option value="C:/wamp/www/contactform/contact.js" />
-        <option value="$PROJECT_DIR$/graphista/js/app.js" />
         <option value="$PROJECT_DIR$/graphista/contactform-mario.php" />
         <option value="$PROJECT_DIR$/graphista/contactform-mario.html" />
         <option value="$PROJECT_DIR$/graphista/contactformmario.php" />
         <option value="$PROJECT_DIR$/graphista/contactform-mario.js" />
         <option value="$PROJECT_DIR$/graphista/index-juampy.html" />
         <option value="$PROJECT_DIR$/graphista/js/app-juampy.js" />
+        <option value="$PROJECT_DIR$/graphista/contactform2.php" />
+        <option value="$PROJECT_DIR$/graphista/index-sample.html" />
+        <option value="$PROJECT_DIR$/graphista/js/app.js" />
+        <option value="$PROJECT_DIR$/graphista/contactform.php" />
+        <option value="$PROJECT_DIR$/graphista/css/styles-9.css" />
         <option value="$PROJECT_DIR$/graphista/index.html" />
       </list>
     </option>
@@ -180,7 +326,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -206,6 +352,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -316,12 +464,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Coding Class/angularjs_form-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ToDo-Angular" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -331,15 +477,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp\www\contactform" />
       <recent name="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista" />
+      <recent name="C:\wamp\www\contactform" />
       <recent name="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jennifer\Documents\Coding\Github\portfolio\graphista\images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.contactform-mario.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/graphista/index.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -410,8 +556,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.contactform-mario.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.contactform-mario.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.contactform.html" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index-sample.html" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.scripts.js" />
@@ -432,27 +578,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21380346" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2133829" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19897959" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19897959" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -491,17 +637,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
+    <entry file="file://$PROJECT_DIR$/graphista/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="560" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="560" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.php">
+    <entry file="file://$PROJECT_DIR$/graphista/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="17" />
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphista/contactform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphista/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphista/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphista/contactform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -520,45 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact-form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="560" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="560" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -577,13 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphista/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -592,24 +730,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="560" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="560" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -628,24 +752,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="560" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="560" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -664,24 +774,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="560" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="560" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -747,13 +843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="560" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="560" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/wamp/www/contactform/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.6">
@@ -768,100 +857,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform.html">
+    <entry file="file://$PROJECT_DIR$/graphista/index-sample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="32" />
+        <state vertical-scroll-proportion="-7.6153846">
+          <caret line="561" column="18" selection-start-line="561" selection-start-column="18" selection-end-line="561" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graphista/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.008896797">
-          <caret line="158" column="37" selection-start-line="158" selection-start-column="37" selection-end-line="158" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8097015">
-          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactformmario.php">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform-mario.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/js/app-juampy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/index-juampy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contactform-mario.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6923075">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9190476">
-          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graphista/contactform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9190476">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.4">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphista/contact-form.php">
+    <entry file="file://$PROJECT_DIR$/graphista/css/styles-9.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4047619">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="27" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1415" column="14" selection-start-line="1415" selection-start-column="14" selection-end-line="1415" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graphista/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41984734">
-          <caret line="352" column="134" selection-start-line="352" selection-start-column="134" selection-end-line="352" selection-end-column="134" />
+        <state vertical-scroll-proportion="0.2793651">
+          <caret line="329" column="257" selection-start-line="329" selection-start-column="257" selection-end-line="329" selection-end-column="257" />
           <folding />
         </state>
       </provider>

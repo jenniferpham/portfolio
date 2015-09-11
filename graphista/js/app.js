@@ -5,62 +5,6 @@
 
 (function(){
     angular.module('portfolioApp',[])
-        .controller('ContactCtrl2', function($scope, $http){
-            $scope.success = false;
-            $scope.error = false;
-
-            $scope.sendMessage = function( input ) {
-                input.submit = true;
-                $http({
-                    method: 'POST',
-                    url: 'processForm.php',
-                    data: angular.element.param(input),
-                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
-                })
-                    .success( function(data) {
-                        if ( data.success ) {
-                            $scope.success = true;
-                        } else {
-                            $scope.error = true;
-                        }
-                    } );
-            }
-        })
-        .controller('ContactCtrl', function($scope, $http){
-            $scope.result = 'hidden';
-            $scope.resultMessage;
-            $scope.formData;  //formData is an object holding the name, email, and message
-            $scope.submitButtonDisabled = false;
-            $scope.submit = function(contactform) {
-                $scope.submitted = true;
-                $scope.submitButtonDisabled=true;
-                if (contactform.$valid){
-                    $http({
-                        method: 'POST',
-                        url: 'contact-form.php',
-                        data: $.param($scope.formData), //param method from jquery
-                        headers: { 'Content-Type': 'application/x-www-form-urlencoded' }  //set the headers so angular passing info as form data (not request payload)
-                    }).success(function(data){ //success comes from the returned json object
-                        console.log(data);
-                        if(data.success){
-                            $scope.submitButtonDisabled = true;
-                            $scope.resultMessage = data.message;
-                            $scope.result = 'bg-success';
-                        }
-                        else{
-                            $scope.submitButtonDisabled=false;
-                            $scope.resultMessage = data.message;
-                            $scope.result = 'bg-danger';
-                        }
-                    });
-                } else{
-                    $scope.submitButtonDisabled = false;
-                    $scope.resultMessage = 'Please fill out all fields';
-                    $scope.result='bg-danger';
-                }
-            }
-
-        })
         .controller('PortfolioCtrl', function($scope) {
             $scope.samples=[
             {
